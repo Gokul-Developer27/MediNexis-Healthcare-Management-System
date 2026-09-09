@@ -94,6 +94,33 @@ Patients can interact with the system to manage their appointments and medical i
 - View medical history
 - View prescriptions
 
+--> Technology Stack
+Backend
+Java
+Spring Boot
+Spring Data JPA
+REST APIs
+
+-->Database
+MySQL
+
+--> API Testing
+Postman
+
+--> Design & Prototyping
+Figma
+Google Stitch
+AI-assisted prototyping
+
+--> Frontend
+HTML + CSS
+JavaScript
+
+-->Development Tools
+IntelliJ IDEA
+Git
+GitHub
+
 
 ## Core Workflow
 
