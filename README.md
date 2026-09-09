@@ -5,6 +5,7 @@ Online Appointment and Patient Record Management System for clinics and diagnost
 --> A digital healthcare management solution designed to simplify patient records, doctor appointments, medical history and clinic operations.
 
 
+
 ## About the Project
 
 MediNexis is a healthcare management system designed for small clinics and diagnostic centers that still depend on the  manual registrations or inefficient systems to manage patient information and appointments.
@@ -18,6 +19,7 @@ My app(MediNexis) will aim to digitize and organize:
 - 💊 Diagnosis and prescriptions
 - 📊 Clinic management (Admin Dashboard)
 - And other features for more secure and efficient app management.
+
 
 
 ## 🎯 Problem Statement
@@ -36,6 +38,7 @@ This can result in:
 MediNexis solves these challenges by providing a digitalized and well-organised system for managing healthcare information.
 
 
+
 ##  Objectives
 
 The main objectives of MediNexis are to:
@@ -49,6 +52,7 @@ The main objectives of MediNexis are to:
 - Improve clinic management
 - Reduce patient waiting time
 - Provide access to different users based on their role in service.
+
 
 
 ##  User Roles
@@ -94,29 +98,29 @@ Patients can interact with the system to manage their appointments and medical i
 - View medical history
 - View prescriptions
 
---> Technology Stack
+### Technology Stack
 Backend
 Java
 Spring Boot
 Spring Data JPA
 REST APIs
 
--->Database
+**Database**
 MySQL
 
---> API Testing
+**API Testing**
 Postman
 
---> Design & Prototyping
+**Design & Prototyping**
 Figma
 Google Stitch
 AI-assisted prototyping
 
---> Frontend
+**Frontend**
 HTML + CSS
 JavaScript
 
--->Development Tools
+**Development Tools**
 IntelliJ IDEA
 Git
 GitHub
