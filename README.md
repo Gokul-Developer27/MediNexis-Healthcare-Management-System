@@ -98,56 +98,48 @@ Patients can interact with the system to manage their appointments and medical i
 - View medical history
 - View prescriptions
 
-Technology Stack:
-1.Backend
-2.Java
-3.Spring Boot
-4.Spring Data JPA
-5.REST APIs
+## Technology Stack:
+### Backend
+- Java
+- Spring Boot
+- Spring Data JPA
+- REST APIs
 
-Database:
-1.MySQL
-2.Spring Initializr
+### Database
+- MySQL
+- Spring Initializr
 
-API Testing:
-1.Postman
+### API Testing
+- Postman
 
-Design & Prototyping:
-1.Figma
-2.Google Stitch
-3.AI-assisted prototyping
+### Design & Prototyping
+- Figma
+- Google Stitch
+- AI-assisted prototyping
 
-Frontend:
-1.HTML + CSS
-2.JavaScript
+### Frontend
+- HTML + CSS
+- JavaScript
 
-Development Tools:
-1.IntelliJ IDEA
-2.Git
-3.GitHub
+### Development Tools
+- IntelliJ IDEA
+- Git
+- GitHub
 
 
 ## Core Workflow
 
-Patient
-   ↓
-Login / Register
-   ↓
-Search Doctor
-   ↓
-Check Availability
-   ↓
-Book Appointment
-   ↓
-Appointment Confirmation
-   ↓
-Doctor Consultation
-   ↓
-Diagnosis & Prescription
-   ↓
-Medical Record Created
-   ↓
-Patient Views Medical Record
+```mermaid
+flowchart TD
+    A[Patient] --> B[Login / Register]
+    B --> C[Search Doctor]
+    C --> D[Check Availability]
+    D --> E[Book Appointment]
+    E --> F[Appointment Confirmation]
+    F --> G[Doctor Diagnosis & Prescription]
+    G --> H[Medical Record Created]
+    H --> I[Patient Views Medical Record]
+```
 
 
 ✅ Prototype for my MediNexis project is attached below; 
