@@ -8,7 +8,7 @@ Online Appointment and Patient Record Management System for clinics and diagnost
 
 ## About the Project
 
-MediNexis is a healthcare management system designed for small clinics and diagnostic centers that still depend on the  manual registrations or inefficient systems to manage patient information and appointments.
+MediNexis is a healthcare management system designed for small clinics and diagnostic centers that still depend on the manual registrations or inefficient systems to manage patient information and appointments.
 
 My app(MediNexis) will aim to digitize and organize:
 
@@ -142,11 +142,11 @@ flowchart TD
 ```
 
 
-✅ Prototype for my MediNexis project is attached below; 
----> UI/Prototype: [https://lnkd.in/gGZURvbn]
+## ✅ Prototype for my MediNexis project is attached below; 
+### UI/Prototype: [https://lnkd.in/gGZURvbn]
 
-✅ Screenwise designs using Stitch for my user interface is attached below;
----> [https://stitch.withgoogle.com/projects/10627396728508285338]
+## ✅ Screenwise designs using Stitch for my user interface is attached below;
+### [https://stitch.withgoogle.com/projects/10627396728508285338]
 
 This is the exact workflow of how my app-MediNexis is designed.
 
