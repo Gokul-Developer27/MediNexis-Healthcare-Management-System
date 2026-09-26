@@ -98,29 +98,29 @@ Patients can interact with the system to manage their appointments and medical i
 - View medical history
 - View prescriptions
 
-Technology Stack : 
+**Technology Stack**
 Backend
 Java
 Spring Boot
 Spring Data JPA
 REST APIs
 
-Database : 
+**Database**
 MySQL
 
-API Testing : 
+**API Testing**
 Postman
 
-Design & Prototyping : 
+**Design & Prototyping**
 Figma
 Google Stitch
 AI-assisted prototyping
 
-Frontend : 
+**Frontend**
 HTML + CSS
 JavaScript
 
-Development Tools : 
+**Development Tools**
 IntelliJ IDEA
 Git
 GitHub
@@ -147,6 +147,12 @@ Diagnosis & Prescription
 Medical Record Created
    ↓
 Patient Views Medical Record
+
+Prototype for my MediNexis project iss attached below;
+---> UI/Prototype: [https://lnkd.in/gGZURvbn]
+
+Screenwise designs using Stitch for my user interface is attached below;
+--->[https://stitch.withgoogle.com/projects/10627396728508285338]
 
 This is the exact workflow of how my app-MediNexis is designed.
 
