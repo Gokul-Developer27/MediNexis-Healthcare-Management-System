@@ -98,32 +98,33 @@ Patients can interact with the system to manage their appointments and medical i
 - View medical history
 - View prescriptions
 
-**Technology Stack**
-Backend
-Java
-Spring Boot
-Spring Data JPA
-REST APIs
+Technology Stack:
+1.Backend
+2.Java
+3.Spring Boot
+4.Spring Data JPA
+5.REST APIs
 
-**Database**
-MySQL
+Database:
+1.MySQL
+2.Spring Initializr
 
-**API Testing**
-Postman
+API Testing:
+1.Postman
 
-**Design & Prototyping**
-Figma
-Google Stitch
-AI-assisted prototyping
+Design & Prototyping:
+1.Figma
+2.Google Stitch
+3.AI-assisted prototyping
 
-**Frontend**
-HTML + CSS
-JavaScript
+Frontend:
+1.HTML + CSS
+2.JavaScript
 
-**Development Tools**
-IntelliJ IDEA
-Git
-GitHub
+Development Tools:
+1.IntelliJ IDEA
+2.Git
+3.GitHub
 
 
 ## Core Workflow
@@ -148,11 +149,12 @@ Medical Record Created
    ↓
 Patient Views Medical Record
 
-Prototype for my MediNexis project iss attached below;
+
+✅ Prototype for my MediNexis project is attached below; 
 ---> UI/Prototype: [https://lnkd.in/gGZURvbn]
 
-Screenwise designs using Stitch for my user interface is attached below;
---->[https://stitch.withgoogle.com/projects/10627396728508285338]
+✅ Screenwise designs using Stitch for my user interface is attached below;
+---> [https://stitch.withgoogle.com/projects/10627396728508285338]
 
 This is the exact workflow of how my app-MediNexis is designed.
 
